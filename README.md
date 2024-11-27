@@ -1,2 +1,2 @@
-# in-cio-ao-JS
+# incio ao JS
 estudos com JS
